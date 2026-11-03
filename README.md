@@ -113,26 +113,6 @@ The dashboard helps stakeholders:
 - The recommended retention actions have not been experimentally validated.
 - Historical charges associated with churned customers should not be interpreted as future revenue loss.
 
-## Repository Contents
-
-```text
-customer-churn-retention-analysis/
-│
-├── dashboard/
-│   └── Customer_Churn_Retention_Dashboard.pbix
-│
-├── data/
-│   └── telco_churn_cleaned.csv
-│
-├── screenshots/
-│   ├── executive-overview.png
-│   ├── churn-driver-analysis.png
-│   ├── retention-strategy.png
-│   └── retention-action-plan.png
-│
-└── README.md
-```
-
 ## How to Use
 
 1. Clone or download this repository.
